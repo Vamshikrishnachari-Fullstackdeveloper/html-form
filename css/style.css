@@ -1,0 +1,41 @@
+
+body{
+    background-color: black;
+}
+legend{
+    text-align:center;
+    color:greenyellow;
+}
+form{
+    background-color:maroon;
+}
+a{
+    text-decoration: none;
+    color:greenyellow;
+}
+
+.signup{
+    display: flex;
+    justify-content: space-between;
+}
+input[type="submit"]{
+    background-color: yellowgreen;
+    color:white;
+    text-align: center;
+    border:none;
+}
+input[type="text"]{
+    border:none;
+    background-color: darkcyan;
+}
+input[type="password"]{
+    border:none;
+    background-color: darkcyan;
+}
+.login-form{
+   display: flex; 
+}
+.login-img img{
+width:156px;
+height:96px;
+}
